@@ -1,4 +1,4 @@
-# 2022-graduation-timeline
+### 2022 Graduation Timeline
 
 |   Done  |  ℮ Span | Launch  | Deadline | Task |
 |:-------:|:-------:|:-------:|:--------:|:-----|
